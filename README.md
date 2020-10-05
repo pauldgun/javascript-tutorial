@@ -1,6 +1,6 @@
 # Javascript-Tutorial
 
---Summary
+--Summary 
 
 ## Chapter 1: Variables
 
